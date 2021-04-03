@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CALL</string>
+    <string name="call">CALL</string>
+    <string name="receive">RECEIVE</string>
+    <string name="end_call">END CALL</string>
+    <string name="phone_number">Phone Number</string>
 </resources>

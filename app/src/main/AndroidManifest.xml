@@ -3,7 +3,6 @@
     package="com.example.call">
     <uses-permission android:name="android.permission.CALL_PHONE" />
     <uses-permission android:name="android.permission.ANSWER_PHONE_CALLS" />
-    <uses-permission android:name="android.permission.CALL_PRIVILEGED" />
 
 
 
